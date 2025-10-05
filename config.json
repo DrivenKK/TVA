@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTQyNDM5NzMxNzAyNDUxODI1Ng.G6ubbP.s6-cyKdcAgdvtLqfqVR8Ad5EjgEDbSYGQE_v4s",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://Redz:Redisepik@red.eiyvl.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
